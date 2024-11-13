@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vctma
+Build-Jdk: 21.0.4
+Implementation-Title: projetoUsuarioCarro
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.pe.joaoMarques
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-st
+ arter-parent/projetoUsuarioCarro/
+Created-By: Maven Integration for Eclipse
+
